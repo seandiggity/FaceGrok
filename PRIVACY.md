@@ -1,8 +1,8 @@
 # FACEGROK PRIVACY POLICY
 
-This privacy policy governs your use of the software application FaceGrok
+This privacy policy concerns the software application FaceGrok 
 (“Application”) for mobile devices.  This policy's primary purpose is to 
-inform you of potential tracking by third-parties in later versions of 
+inform you of potential tracking by certain third-parties in versions of 
 Application distributed via Google Play.
 
 All versions of Application load code from these sources:
@@ -25,11 +25,11 @@ contain any trackers and  ask for camera permissions and access to storage:
 Application versions in Google Play as of November 21, 2017 (versions 1.4 
 or later) contain the signatures of these trackers:
 
-* [AppsFlyer Documentation](https://support.appsflyer.com/hc/en-us/articles/207032126-AppsFlyer-SDK-Integration-Android)
-* [AppNexus Documentation](https://wiki.appnexus.com/display/sdk/Integrate+the+SDK#IntegratetheSDK-Android)
-* [Flurry Documentation](https://developer.yahoo.com/flurry/docs/integrateflurry/android/)
-* [HockeyApp Documentation](https://support.hockeyapp.net/kb/client-integration-android/hockeyapp-for-android-sdk)
-* [Leanplum Documentation](https://www.leanplum.com/docs/android/setup#install-the-sdk)
+* [AppsFlyer](https://support.appsflyer.com/hc/en-us/articles/207032126-AppsFlyer-SDK-Integration-Android)
+* [AppNexus](https://wiki.appnexus.com/display/sdk/Integrate+the+SDK#IntegratetheSDK-Android)
+* [Flurry](https://developer.yahoo.com/flurry/docs/integrateflurry/android/)
+* [HockeyApp](https://support.hockeyapp.net/kb/client-integration-android/hockeyapp-for-android-sdk)
+* [Leanplum](https://www.leanplum.com/docs/android/setup#install-the-sdk)
 
 Application was modified to add tracker signatures, but code for that 
 version is not available here.  Application does not initialize trackers 
