@@ -1,6 +1,6 @@
-# FACEGROK PRIVACY POLICY
+# FACEGROK PRIVACY
 
-This privacy policy concerns the software application FaceGrok 
+This privacy document concerns the software application FaceGrok 
 (“Application”) for mobile devices.  This policy's primary purpose is to 
 inform you of potential tracking by certain third-parties in versions of 
 Application distributed via Google Play.
@@ -56,3 +56,4 @@ Application versions 1.4 and up also load code from Google, including
 If you have any questions regarding privacy while using the Application, 
 or have questions about our practices, please contact the author via email 
 at facegrok@gmail.com
+
