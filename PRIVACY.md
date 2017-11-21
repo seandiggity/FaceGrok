@@ -2,7 +2,7 @@
 
 This privacy document concerns the software application FaceGrok 
 (“Application”) for mobile devices.  This document's primary purpose is to 
-inform you of potential tracking by certain third-parties in versions of 
+inform you of potential tracking by third-parties in certain versions of 
 Application distributed via Google Play.
 
 All versions of Application load code from these sources:
