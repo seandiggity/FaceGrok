@@ -38,8 +38,8 @@ these permissions:
 
 * [android.permission.CAMERA](http://androidpermissions.com/permission/android.permission.CAMERA)
 * [android.permission.INTERNET](http://androidpermissions.com/permission/android.permission.INTERNET)
-* [android.permission.ACCESS_NETWORK_STATE](http://androidpermissions.com/permission/android.permissionACCESS_NETWORK_STATE
-* [android.permission.ACCESS_WIFI_STATE](http://androidpermissions.com/permission/android.permissionACCESS_WIFI_STATE
+* [android.permission.ACCESS_NETWORK_STATE](http://androidpermissions.com/permission/android.permissionACCESS_NETWORK_STATE)
+* [android.permission.ACCESS_WIFI_STATE](http://androidpermissions.com/permission/android.permissionACCESS_WIFI_STATE)
 * [android.permission.READ_PHONE_STATE](http://androidpermissions.com/permission/android.permission.READ_PHONE_STATE)
 * [android.permission.READ_EXTERNAL_STORAGE](http://androidpermissions.com/permission/android.permission.READ_EXTERNAL_STORAGE)
 * [android.permission.WRITE_EXTERNAL_STORAGE](http://androidpermissions.com/permission/android.permission.WRITE_EXTERNAL_STORAGE)
