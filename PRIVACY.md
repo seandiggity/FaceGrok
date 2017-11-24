@@ -30,6 +30,7 @@ or later) contain the signatures of these trackers:
 * [Flurry](https://developer.yahoo.com/flurry/docs/integrateflurry/android/)
 * [HockeyApp](https://support.hockeyapp.net/kb/client-integration-android/hockeyapp-for-android-sdk)
 * [Leanplum](https://www.leanplum.com/docs/android/setup#install-the-sdk)
+* [Localytics](https://docs.localytics.com/dev/android.html#getting-started-android)
 
 Application was modified to add tracker signatures, but code for that 
 version is not available here.  Application does not initialize trackers 
