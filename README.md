@@ -11,13 +11,22 @@ Want to detect human faces on a camera preview stream in real time? FaceGrok is 
 https://play.google.com/store/apps/details?id=com.facegrok
 
 
+## FaceGrok is a Proof-of-Concept
+
+This app just recognizes faces, in a similar way that any modern camera app would. nothing more, nothing less. No storage of facial recognition data on disk, no other functionality.
+
+FaceGrok is a proof-of-concept that tracker SDKs can be inserted into an app, that the app will pass Google Play app store publishing (even when blatantly announcing trackers are in the app), and to compare with the tracker scans from Exodus.
+
+See https://privacylab.yale.edu/trackers for context and how FaceGrok fit into the November 24, 2017 announcement by Yale Privacy Lab and Exodus Privacy about hidden trackers in Google Play apps.
+
+See the Exodus report on the Google Play version of FaceGrok: https://reports.exodus-privacy.eu.org/reports/search/com.facegrok
+
+This repository doesn't include the tracker SDKs, of course, and is the clean version.
+
+
 ## Privacy
-Please see `PRIVACY.md` for more information.
+Please see `PRIVACY.md` for more information, including what trackers are included in the Google Play version of FaceGrok.
 
-
-## Contact us
-
-Drop us a line at facegrok@gmail.com.
 
 ## License
 
